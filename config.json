@@ -1,12 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "LuckPool",
-        	"url": "stratum+tcp://eu.luckpool.net:3960",
+		"name": "ViporNet",
+        	"url": "stratum+tcp://de.vipor.net:5040",
 		"timeout": 150
 	}
 	],
-	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.01_Mate20Lite",
+	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.05_RedmiNote105G",
 	"pass": "c-PGN",
 	"algo": "verus",
 	"threads": 8,
