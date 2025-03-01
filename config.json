@@ -9,7 +9,7 @@
 	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.46_SGJ3",
 	"pass": "c-PGN",
 	"algo": "verus",
-	"threads": 8,
+	"threads": 4,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
