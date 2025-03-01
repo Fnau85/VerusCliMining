@@ -6,10 +6,10 @@
 		"timeout": 150
 	}
 	],
-	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.46_SGJ3",
+	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.47_SGA6",
 	"pass": "c-PGN",
 	"algo": "verus",
-	"threads": 4,
+	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
