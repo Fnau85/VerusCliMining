@@ -1,12 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "ViporNet",
-        	"url": "stratum+tcp://de.vipor.net:5040",
+		"name": "VerusFarm",
+        	"url": "stratum+tcp://verus.farm:9999",
 		"timeout": 150
 	}
 	],
-	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.52_SGA12",
+	"user": "RSc4JsgetoHf1GrQFTvtMyj8oEAft9icP3.01_XX",
 	"pass": "c-PGN",
 	"algo": "verus",
 	"threads": 8,
